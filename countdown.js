@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
 // Defina a data inicial (exemplo: 1 de janeiro de 2020)
-const startDate = new Date('2024-04-04T00:00:00');
+const startDate = new Date('2025-05-04T00:00:00');
 
 function updateCountdown() {
     const now = new Date();
